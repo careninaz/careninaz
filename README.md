@@ -3,7 +3,7 @@
 
 <h3 align="justify">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carenina-zahra-yuvianti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carenina zahra yuvianti" height="30" width="40" /></a>
+<a href="linkedin.com/in/carenina-zahra-yuvianti-3b125b218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carenina zahra yuvianti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
