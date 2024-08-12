@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carenina Zahra Yuvianti</h1>
-<h3 align="center">Craving to be a Front-End Developer</h3>
+<h3 align="center">Craving to be a Data Analyst and Front-End Developer</h3>
 
 <h3 align="justify">Connect with me:</h3>
 <p align="left">
